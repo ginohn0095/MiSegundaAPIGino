@@ -1,0 +1,6 @@
+@MiSegundaAPIGino_HostAddress = http://localhost:5062
+
+GET {{MiSegundaAPIGino_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
